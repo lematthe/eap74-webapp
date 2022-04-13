@@ -7,7 +7,7 @@
         <groupId>com.redhat.examples</groupId>
         <artifactId>weather-app-cloud-ready-parent</artifactId>
         <version>1.0.0</version>
-        <relativePath>../pom.xml</relativePath>
+        <relativePath/>
     </parent>
     <artifactId>weather-app-cloud-ready</artifactId>
     <packaging>war</packaging>
